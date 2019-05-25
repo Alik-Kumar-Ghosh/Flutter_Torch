@@ -1,6 +1,5 @@
-# flash
-
-A new Flutter project.
+#Flutter Torch
+A new Flutter project to use flash as torch.
 
 ## Getting Started
 

@@ -1,7 +1,8 @@
 # flutter_torch
 
 A its a simple flashlight app created in flutter.
-
+## Play store 
+[playstore](url)
 ## Getting Started
 
 use commands 
@@ -9,4 +10,5 @@ use commands
 
 > flutter run
 
-![screenshot0](/assets/screenshots/0.png)Format
+![screenshot1](/assets/Screenshots/1.jpg)
+

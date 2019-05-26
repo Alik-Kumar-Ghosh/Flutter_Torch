@@ -1,7 +1,12 @@
 # flutter_torch
 
-A new Flutter project.
+A its a simple flashlight app created in flutter.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+use commands 
+> flutter pub get
+
+> flutter run
+
+

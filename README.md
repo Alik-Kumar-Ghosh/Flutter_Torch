@@ -10,6 +10,5 @@ use commands
 > flutter pub get
 
 > flutter run
-
-![screenshot1](/assets/Screenshots/1.jpg)
-
+<br>
+<img src="/assets/Screenshots/1.jpg" width="500" height="700">

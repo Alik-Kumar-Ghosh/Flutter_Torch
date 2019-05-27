@@ -2,7 +2,8 @@
 
 A its a simple flashlight app created in flutter.
 ## Play store 
-[playstore](url)
+[playstore](https://play.google.com/store/apps/details?id=com.alikghosh.flutter_torch)
+> Download check this app out 
 ## Getting Started
 
 use commands 

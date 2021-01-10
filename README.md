@@ -16,13 +16,12 @@ A its a simple flashlight app created with flutter.
 
 ---
 
-### installation
+### Installation
 
 ```
 flutter pub get
 
 flutter run
-
 ```
 <br>
 ##Screen

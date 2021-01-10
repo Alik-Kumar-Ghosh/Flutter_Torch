@@ -27,7 +27,7 @@ flutter run
 
 ### ScreenShot
 
-<img src="/assets/Screenshots/1.jpg" width="500" height="700">
+<img src="/assets/Screenshots/1.jpg" width="400" height="600">
 
  ### License
  

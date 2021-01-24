@@ -1,4 +1,4 @@
-# flutter_torch
+# Flutter_torch
 
 A its a simple flashlight app created with flutter.
 
